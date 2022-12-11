@@ -1,4 +1,4 @@
-# `In preparation for 2.0, this repository will be cleared of all 1.0 related releases and code`
+# `Archive Of The Netch 1.9.7`
 <p align="center"><img src="https://github.com/NetchX/Netch/blob/main/Netch/Resources/Netch.png?raw=true" width="128" /></p>
 
 <div align="center">
